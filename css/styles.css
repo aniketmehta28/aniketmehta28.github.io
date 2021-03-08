@@ -63,7 +63,7 @@ p {
   font-weight: bolder;
   font-family: 'Roboto', sans-serif;
   animation-name: text;
-  animation-duration: 10s;
+  animation-duration: 3s;
   animation-fill-mode: forwards;
   line-height:2;
   }
@@ -87,7 +87,7 @@ img {
   padding: 2% 2%;
   border-radius: 50%;
   animation-name: img;
-  animation-duration: 10s;
+  animation-duration: 5s;
   animation-fill-mode: forwards;
   animation-direction: alternate;
 }
