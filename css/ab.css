@@ -192,8 +192,8 @@ body {
   font-weight: bold;
   padding: 3% 0%;
 }
-.card-body{
-  background-color: #eff8ff;
+.card:hover{
+  box-shadow: 0px 0px 5px gray;
 }
 .card-title{
   color: #111d5e;
@@ -216,11 +216,16 @@ body {
 .icon:hover {
   color: #487e95;
 }
-
+h6{
+  padding: 2% 2%;
+  color: #111d5e;
+  font-weight:bold;
+}
 .foot {
   background-color: #fff;
 }
-@media (max-width:600px) {
+/* Mobile  */
+@media (max-width:900px) {
 
   .navbar-brand{
     margin-right: auto;
