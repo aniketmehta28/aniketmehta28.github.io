@@ -99,6 +99,11 @@ img {
    opacity: 1.0;
   }
 }
+h6{
+  padding: 2% 2%;
+  color: #111d5e;
+  font-weight:bold;
+}
 
 .icon {
   padding: 1% 3%;
