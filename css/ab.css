@@ -207,6 +207,19 @@ body {
   font-weight: bolder;
   font-size: 1.2rem;
 }
+
+/* Projects */
+.project{
+  width: 100%;
+  height: 100%;
+}
+.repo{
+    color: #111d5e;
+    text-decoration:none;
+}
+.repo:hover{
+    color: #394989;
+}
 /* Footer  */
 .icon {
   padding: 1% 3%;
